@@ -1,0 +1,268 @@
+.blog-post-header8-wrapper {
+  display: contents;
+}
+ 
+.blog-post-header8-blog-post-header3 {
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+ 
+.blog-post-header8-max-width {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+ 
+.blog-post-header8-content {
+  display: flex;
+  align-self: flex-start;
+  flex-direction: column;
+}
+ 
+.blog-post-header8-title {
+  height: 84px;
+  align-self: flex-start;
+}
+ 
+.blog-post-header8-author-name1 {
+  font-size: 32px;
+  align-self: flex-start;
+  text-align: left;
+  font-weight: 200;
+}
+ 
+.blog-post-header8-author-name2 {
+  font-size: 32px;
+  align-self: flex-start;
+  text-align: left;
+  font-weight: 200;
+}
+ 
+.blog-post-header8-share-buttons {
+  align-self: flex-start;
+}
+ 
+.blog-post-header8-share-button {
+  border-color: #040f5c;
+  text-decoration: none;
+  background-color: #06047b;
+}
+ 
+.blog-post-header8-icon1 {
+  fill: #D9D9D9;
+}
+ 
+.blog-post-header8-image {
+  width: auto;
+  height: auto;
+  min-width: auto;
+  object-fit: cover;
+  border-color: #070a4c;
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.home-fragment1 {
+  display: contents;
+}
+ 
+.home-text10 {
+  display: inline-block;
+}
+ 
+.home-fragment3 {
+  display: contents;
+}
+ 
+.home-text18 {
+  display: inline-block;
+}
+ 
+.home-fragment2 {
+  display: contents;
+}
+ 
+.home-text11 {
+  display: inline-block;
+  font-size: 14px;
+}
+ 
+@media(max-width: 991px) {
+  .blog-post-header8-max-width {
+    flex-direction: column;
+  }
+  .blog-post-header8-share-buttons {
+    flex-direction: row;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .blog-post-header8-content {
+    flex-direction: column;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .blog-post-header8-content {
+    align-items: center;
+  }
+  .blog-post-header8-title {
+    text-align: center;
+  }
+  .blog-post-header8-author-name1 {
+    align-self: center;
+    text-align: center;
+  }
+  .blog-post-header8-author-name2 {
+    align-self: center;
+    text-align: center;
+  }
+  .blog-post-header8-share-buttons {
+    align-self: center;
+  }
+}
+
+.features19-wrapper {
+  display: contents;
+}
+ 
+.features19-layout349 {
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.features19-max-width {
+  gap: var(--dl-layout-space-fiveunits);
+  width: 1130px;
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+ 
+.features19-image {
+  width: 466px;
+  height: 115px;
+  object-fit: cover;
+}
+ 
+.features19-content1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.features19-section-title {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: 486px;
+  height: 221px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.features19-content2 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.home-fragment4 {
+  display: contents;
+}
+ 
+.home-text19 {
+  display: inline-block;
+}
+ 
+.home-fragment5 {
+  display: contents;
+}
+ 
+.home-text25 {
+  display: inline-block;
+}
+ 
+.home-fragment6 {
+  display: contents;
+}
+ 
+.home-text26 {
+  display: inline-block;
+}
+ 
+@media(max-width: 991px) {
+  .features19-max-width {
+    gap: var(--dl-layout-space-twounits);
+    flex-direction: column;
+  }
+}
+
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+ 
+.home-fragment1 {
+  display: contents;
+}
+ 
+.home-text10 {
+  display: inline-block;
+}
+ 
+.home-fragment2 {
+  display: contents;
+}
+ 
+.home-text11 {
+  display: inline-block;
+  font-size: 14px;
+}
+ 
+.home-fragment3 {
+  display: contents;
+}
+ 
+.home-text18 {
+  display: inline-block;
+}
+ 
+.home-fragment4 {
+  display: contents;
+}
+ 
+.home-text19 {
+  display: inline-block;
+}
+ 
+.home-fragment5 {
+  display: contents;
+}
+ 
+.home-text25 {
+  display: inline-block;
+}
+ 
+.home-fragment6 {
+  display: contents;
+}
+ 
+.home-text26 {
+  display: inline-block;
+}
